@@ -1,0 +1,77 @@
+.container {
+  font-family: arial, sans-serif;
+  width: 600px;
+  float: left;
+}
+
+div .header {
+  position: absolute;
+  top-295px;
+  right: 0;
+  width: 100%
+}
+
+div #links {
+  float: right;
+  min-width: 274px;
+  text-align: right;
+}
+
+#links a {
+  padding: 0;
+  margin: 4px 5px 0 0;
+  text-decoration: none;
+  color: #000;
+  display: inline-block;
+  line-height: 24px;
+  vertical-align: middle;
+}
+
+.img-circle {
+  border-radius: 50%
+}
+
+div #notificationBackground {
+  background-color: grey;
+  border-radius: 50%;
+  width: 25px;
+  height: 25px;
+}
+
+img #img-notification {
+  border: 5px, solid red;
+}
+
+.center {
+  position: absolute;
+  margin: 0 auto;
+  top: 40%;
+  left: 40%;
+}
+
+#logo {
+  margin-left: 40px;
+  height: 92px;
+  width: 272px;
+}
+
+.center a {
+  text-decoration: none;
+  margin-left: -40px;
+}
+
+input {
+  line-height: 33px;
+  position: absolute;
+  margin-right: 50px;
+  width: 400px;
+}
+
+button {
+  position: inherit;
+  margin-top: 45px;
+}
+
+.btnDiv {
+  margin-left: 90px;
+}
